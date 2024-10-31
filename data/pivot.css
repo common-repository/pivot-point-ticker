@@ -1,0 +1,41 @@
+html {
+	color: #333;
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3 {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.datatable {
+	background: #fff;
+	font-family: Arial,Helvetica,Sans-serif;
+	font-size:12px;
+	color: #444;
+}
+	
+.datatable tbody tr.header td {
+    background-color: #f6f6f6;
+	padding:2px;
+    }	
+
+.datatable tbody tr.even td {
+     background-color: #f6f6f6;
+	 padding:2px;
+	 
+    }
+
+.datatable tbody tr.odd  td {
+     background-color: #fff;
+	 padding:2px;
+    }
+h2 {
+	color:#1065D3;
+	font-size: 12px;
+	padding:0px 0px 5px 0px;
+	margin:0px;
+	font-weight:normal;
+	font-family: Arial,Helvetica,Sans-serif;
+}
+	
